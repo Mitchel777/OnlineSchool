@@ -1,2 +1,10 @@
-# -nlineSchool
-This project is an online learning system developed in Java. The platform is designed to teach programming and computer science in a convenient format through a website or mobile app.
+# OnlineSchool
+Данный проект представляет собой систему онлайн-обучения, разработанную на языке Java. Платформа предназначена для изучения программирования и информатики в удобном формате через веб-сайт.
+
+Основные возможности:
+
+Регистрация и авторизация пользователей
+Просмотр курсов и уроков
+Прохождение тестов и заданий
+Отслеживание прогресса
+Администрирование контента
