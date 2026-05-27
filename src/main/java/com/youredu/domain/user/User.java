@@ -1,4 +1,4 @@
-package domain.user;
+package com.youredu.domain.user;
 
 
 import jakarta.persistence.*;
