@@ -1,8 +1,8 @@
-package domain.progress;
+package com.youredu.domain.progress;
 
 
-import domain.lesson.Lesson;
-import domain.user.User;
+import com.youredu.domain.lesson.Lesson;
+import com.youredu.domain.user.User;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

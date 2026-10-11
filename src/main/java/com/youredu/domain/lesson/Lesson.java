@@ -1,7 +1,7 @@
-package domain.lesson;
+package com.youredu.domain.lesson;
 
 
-import domain.course.Course;
+import com.youredu.domain.course.Course;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
